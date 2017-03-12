@@ -1,5 +1,5 @@
-# Terminal-Shooting-Game
-A simple terminal game made using termbox-go.
+# Game
+A simple shooting game made using termbox-go.
 
 Gameplay: 
 
